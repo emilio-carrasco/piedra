@@ -4,7 +4,7 @@
 
 ## Introduction
 
-In the exercise, you will practice user defined functions through creating a game. You will work on your own but remember the teaching staff is at your service whenever you encounter problems.
+In the exercise, you will practice  user defined functions through creating a game. You will work on your own but remember the teaching staff is at your service whenever you encounter problems.
 
 ## Getting Started
 
